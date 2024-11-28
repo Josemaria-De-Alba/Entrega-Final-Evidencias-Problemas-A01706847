@@ -4,4 +4,6 @@ Link a Problema:
 
 https://codeforces.com/problemset/problem/1992/B
 
-Link a Video:
+Link a Video(Hubo un problema con Code Forces por eso hay un corte pero se puede ver que es la misma entrega):
+
+https://youtu.be/0M23MvzJpjw
