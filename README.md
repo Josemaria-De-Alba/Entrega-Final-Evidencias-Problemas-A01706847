@@ -15,3 +15,15 @@ https://codeforces.com/problemset/problem/1992/B
 Link a Video(Hubo un problema con Code Forces por eso hay un corte pero se puede ver que es la misma entrega):
 
 https://youtu.be/0M23MvzJpjw
+
+**Problema Estructura Lineal**
+
+Nombre de Problema: Container With Most Water
+
+Link a Problema
+
+https://leetcode.com/problems/container-with-most-water/description/?envType=problem-list-v2&envId=array
+
+Link a Video:
+
+https://youtu.be/ZmsncyJNlHY
